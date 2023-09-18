@@ -3,15 +3,15 @@
     "displayName": "Spacegray VSCode",
     "description": "Spacegray theme for visual studio code.",
     "version": "1.2.4",
-    "publisher": "ionutvmi",
+    "publisher": "phlak",
     "icon": "screenshots/eighties.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/ionutvmi/spacegray-vscode"
+        "url": "https://github.com/phlak/spacegray-vscode"
     },
     "bugs": {
-        "url": "https://github.com/ionutvmi/spacegray-vscode/issues",
-        "email": "ionutvmi@gmail.com"
+        "url": "https://github.com/phlak/spacegray-vscode/issues",
+        "email": "Chris@ChrisKankiewicz.com"
     },
     "engines": {
         "vscode": "*"
